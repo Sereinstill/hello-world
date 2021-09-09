@@ -1,4 +1,4 @@
 # hello-world
 Learning...
 
-Flag: make a page game before the end of 2021!
+Flag: make a web game before the end of 2021!
